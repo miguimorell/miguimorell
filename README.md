@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Rodriguez Morell</h1>
 <h3 align="center">Data scientist and industrial engineer. I consider my self a creative person who is passionated about art and music.</h3>
 
-- 📫 How to reach me **miguel.rmorell@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/miguimorell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguimorell" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Miguel Rodriguez Morell</h1>
-<h3 align="center">Data scientist and industrial engineer. I consider my self a creative person who is passionated about art and music.</h3>
-
 - 👯 I’m looking to collaborate on **everything :)**
 
 - 📫 How to reach me **miguel.rmorell@gmail.com**
