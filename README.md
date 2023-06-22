@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Rodriguez Morell</h1>
-<h3 align="center">Data scientist and industrial engineer. I consider my self a creative person who is passionated about art and music.https://github.com/miguimorell/RNN_MUSIC_GENERATOR</h3>
+<h3 align="center">Data scientist and industrial engineer. I consider my self a creative person who is passionated about art and music.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguimorell" alt="miguimorell" /></a> </p>
 
