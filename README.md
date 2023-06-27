@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **miguel.rmorell@gmail.com**
 
+My last project:
+:point_down:  :point_down:
+
+[![BASS BUDDY](https://i.imgur.com/IZxZVtm.png)](https://www.youtube.com/watch?v=Z4O5aN_HotA&ab_channel=M%C3%B8rell)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguimorell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguimorell" height="30" width="40" /></a>
